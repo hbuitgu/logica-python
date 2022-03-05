@@ -1,5 +1,5 @@
 ##programar un componente que le pida el mes del año y pueda recibir 
-mes=input(("ingrese el mes del año: "))
+mes=input("ingrese el mes del año: ").lower()
 
 #caminos para clasificar el mes 
 
